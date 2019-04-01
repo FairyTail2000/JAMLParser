@@ -1,7 +1,7 @@
 # JAMLParser
 This is a parser for JAML
 
-This parses JAML (Java's another markup language), it is invented by me and has the following specifications:
+This parses JAML (Just Another Markup Language), it is invented by me and has the following specifications:
 
 The start of data is an opening bracket ({) followed by a newline.
 In the next line the data begins with the name of the elemt.
